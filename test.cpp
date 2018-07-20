@@ -20,6 +20,5 @@ int main(void)
 	return 0;
 	int c=a+b;
 	cout<<c<<endl;
-        cout<<"你好"<<endl;
 	return 0;
 }
